@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on C++ Projects
+- Working on C/C++ Development for embedded projects.
+- I also develop Java APIs for the backend
 
 - 📫 How to reach me: mwafa2sh@gmail.com
