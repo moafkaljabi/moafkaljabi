@@ -20,4 +20,4 @@ Software Defined Radio (SDR) – GNU Radio, DSP, and real-time signal processing
 
 Backend Development – Java Spring Boot APIs for IoT and embedded platforms
 
-- 📫 How to reach me: mwafa2sh@gmail.com
+How to reach me: mwafa2sh@gmail.com
