@@ -1,4 +1,4 @@
-## C++ Developer
+## Developer
 
 <!--
 **moafkaljabi/moafkaljabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Digital Design & FPGA – VHDL, Vivado, and Zynq UltraScale+ (Kria KR260)
 
-- Working on C/C++ Development for embedded projects.
-- I also develop Java APIs for the backend
+Embedded Systems – C, C++, and Python for microcontrollers & SBCs (STM32F4 Nucleo, Raspberry Pi 4B, and more)
+
+Software Defined Radio (SDR) – GNU Radio, DSP, and real-time signal processing
+
+Backend Development – Java Spring Boot APIs for IoT and embedded platforms
 
 - 📫 How to reach me: mwafa2sh@gmail.com
